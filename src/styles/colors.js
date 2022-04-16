@@ -1,0 +1,1 @@
+export const PRIMARY_BLUE = '#aad3ff'
